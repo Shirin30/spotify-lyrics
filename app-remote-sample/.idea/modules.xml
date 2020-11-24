@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../app-remote-lib/app-remote-lib.iml" filepath="$PROJECT_DIR$/../app-remote-lib/app-remote-lib.iml" group="spotify-sdk/app-remote-lib" />
+      <module fileurl="file://$PROJECT_DIR$/app-remote-sample.iml" filepath="$PROJECT_DIR$/app-remote-sample.iml" group="spotify-sdk/app-remote-sample" />
+      <module fileurl="file://$PROJECT_DIR$/../auth-lib/auth-lib.iml" filepath="$PROJECT_DIR$/../auth-lib/auth-lib.iml" group="spotify-sdk/auth-lib" />
+      <module fileurl="file://$PROJECT_DIR$/../auth-sample/auth-sample.iml" filepath="$PROJECT_DIR$/../auth-sample/auth-sample.iml" group="spotify-sdk/auth-sample" />
+      <module fileurl="file://$PROJECT_DIR$/../spotify-sdk.iml" filepath="$PROJECT_DIR$/../spotify-sdk.iml" group="spotify-sdk" />
+    </modules>
+  </component>
+</project>

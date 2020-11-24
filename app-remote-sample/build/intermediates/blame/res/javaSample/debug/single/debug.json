@@ -1,0 +1,198 @@
+[
+    {
+        "merged": "C:\\Users\\SNIGDHA JAIN\\Desktop\\android-sdk-7.0.0-appremote_v1.2.3-auth\\app-remote-sample\\build\\intermediates\\res\\merged\\javaSample\\debug\\drawable_cat_button_small.xml.flat",
+        "source": "C:\\Users\\SNIGDHA JAIN\\Desktop\\android-sdk-7.0.0-appremote_v1.2.3-auth\\app-remote-sample\\src\\main\\res\\drawable\\cat_button_small.xml"
+    },
+    {
+        "merged": "C:\\Users\\SNIGDHA JAIN\\Desktop\\android-sdk-7.0.0-appremote_v1.2.3-auth\\app-remote-sample\\build\\intermediates\\res\\merged\\javaSample\\debug\\drawable_cat_button_small_state_focused.xml.flat",
+        "source": "C:\\Users\\SNIGDHA JAIN\\Desktop\\android-sdk-7.0.0-appremote_v1.2.3-auth\\app-remote-sample\\src\\main\\res\\drawable\\cat_button_small_state_focused.xml"
+    },
+    {
+        "merged": "C:\\Users\\SNIGDHA JAIN\\Desktop\\android-sdk-7.0.0-appremote_v1.2.3-auth\\app-remote-sample\\build\\intermediates\\res\\merged\\javaSample\\debug\\drawable-xxhdpi_ic_skip_back_15.png.flat",
+        "source": "C:\\Users\\SNIGDHA JAIN\\Desktop\\android-sdk-7.0.0-appremote_v1.2.3-auth\\app-remote-sample\\src\\main\\res\\drawable-xxhdpi\\ic_skip_back_15.png"
+    },
+    {
+        "merged": "C:\\Users\\SNIGDHA JAIN\\Desktop\\android-sdk-7.0.0-appremote_v1.2.3-auth\\app-remote-sample\\build\\intermediates\\res\\merged\\javaSample\\debug\\drawable_btn_seek_back.xml.flat",
+        "source": "C:\\Users\\SNIGDHA JAIN\\Desktop\\android-sdk-7.0.0-appremote_v1.2.3-auth\\app-remote-sample\\src\\main\\res\\drawable\\btn_seek_back.xml"
+    },
+    {
+        "merged": "C:\\Users\\SNIGDHA JAIN\\Desktop\\android-sdk-7.0.0-appremote_v1.2.3-auth\\app-remote-sample\\build\\intermediates\\res\\merged\\javaSample\\debug\\drawable_cat_button_small_state_disabled.xml.flat",
+        "source": "C:\\Users\\SNIGDHA JAIN\\Desktop\\android-sdk-7.0.0-appremote_v1.2.3-auth\\app-remote-sample\\src\\main\\res\\drawable\\cat_button_small_state_disabled.xml"
+    },
+    {
+        "merged": "C:\\Users\\SNIGDHA JAIN\\Desktop\\android-sdk-7.0.0-appremote_v1.2.3-auth\\app-remote-sample\\build\\intermediates\\res\\merged\\javaSample\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\SNIGDHA JAIN\\Desktop\\android-sdk-7.0.0-appremote_v1.2.3-auth\\app-remote-sample\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\SNIGDHA JAIN\\Desktop\\android-sdk-7.0.0-appremote_v1.2.3-auth\\app-remote-sample\\build\\intermediates\\res\\merged\\javaSample\\debug\\drawable-mdpi_ic_spotify_icon_rgb_green.png.flat",
+        "source": "C:\\Users\\SNIGDHA JAIN\\Desktop\\android-sdk-7.0.0-appremote_v1.2.3-auth\\app-remote-sample\\src\\main\\res\\drawable-mdpi\\ic_spotify_icon_rgb_green.png"
+    },
+    {
+        "merged": "C:\\Users\\SNIGDHA JAIN\\Desktop\\android-sdk-7.0.0-appremote_v1.2.3-auth\\app-remote-sample\\build\\intermediates\\res\\merged\\javaSample\\debug\\drawable_btn_seek_forward.xml.flat",
+        "source": "C:\\Users\\SNIGDHA JAIN\\Desktop\\android-sdk-7.0.0-appremote_v1.2.3-auth\\app-remote-sample\\src\\main\\res\\drawable\\btn_seek_forward.xml"
+    },
+    {
+        "merged": "C:\\Users\\SNIGDHA JAIN\\Desktop\\android-sdk-7.0.0-appremote_v1.2.3-auth\\app-remote-sample\\build\\intermediates\\res\\merged\\javaSample\\debug\\drawable_cat_button_small_state_pressed.xml.flat",
+        "source": "C:\\Users\\SNIGDHA JAIN\\Desktop\\android-sdk-7.0.0-appremote_v1.2.3-auth\\app-remote-sample\\src\\main\\res\\drawable\\cat_button_small_state_pressed.xml"
+    },
+    {
+        "merged": "C:\\Users\\SNIGDHA JAIN\\Desktop\\android-sdk-7.0.0-appremote_v1.2.3-auth\\app-remote-sample\\build\\intermediates\\res\\merged\\javaSample\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\SNIGDHA JAIN\\Desktop\\android-sdk-7.0.0-appremote_v1.2.3-auth\\app-remote-sample\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\SNIGDHA JAIN\\Desktop\\android-sdk-7.0.0-appremote_v1.2.3-auth\\app-remote-sample\\build\\intermediates\\res\\merged\\javaSample\\debug\\drawable_btn_pause.xml.flat",
+        "source": "C:\\Users\\SNIGDHA JAIN\\Desktop\\android-sdk-7.0.0-appremote_v1.2.3-auth\\app-remote-sample\\src\\main\\res\\drawable\\btn_pause.xml"
+    },
+    {
+        "merged": "C:\\Users\\SNIGDHA JAIN\\Desktop\\android-sdk-7.0.0-appremote_v1.2.3-auth\\app-remote-sample\\build\\intermediates\\res\\merged\\javaSample\\debug\\drawable-xxhdpi_ic_playback_speed_50.png.flat",
+        "source": "C:\\Users\\SNIGDHA JAIN\\Desktop\\android-sdk-7.0.0-appremote_v1.2.3-auth\\app-remote-sample\\src\\main\\res\\drawable-xxhdpi\\ic_playback_speed_50.png"
+    },
+    {
+        "merged": "C:\\Users\\SNIGDHA JAIN\\Desktop\\android-sdk-7.0.0-appremote_v1.2.3-auth\\app-remote-sample\\build\\intermediates\\res\\merged\\javaSample\\debug\\drawable_cat_button_small_state_default.xml.flat",
+        "source": "C:\\Users\\SNIGDHA JAIN\\Desktop\\android-sdk-7.0.0-appremote_v1.2.3-auth\\app-remote-sample\\src\\main\\res\\drawable\\cat_button_small_state_default.xml"
+    },
+    {
+        "merged": "C:\\Users\\SNIGDHA JAIN\\Desktop\\android-sdk-7.0.0-appremote_v1.2.3-auth\\app-remote-sample\\build\\intermediates\\res\\merged\\javaSample\\debug\\drawable-xxhdpi_mediaservice_repeat_one.png.flat",
+        "source": "C:\\Users\\SNIGDHA JAIN\\Desktop\\android-sdk-7.0.0-appremote_v1.2.3-auth\\app-remote-sample\\src\\main\\res\\drawable-xxhdpi\\mediaservice_repeat_one.png"
+    },
+    {
+        "merged": "C:\\Users\\SNIGDHA JAIN\\Desktop\\android-sdk-7.0.0-appremote_v1.2.3-auth\\app-remote-sample\\build\\intermediates\\res\\merged\\javaSample\\debug\\drawable-xxhdpi_mediaservice_repeat_off.png.flat",
+        "source": "C:\\Users\\SNIGDHA JAIN\\Desktop\\android-sdk-7.0.0-appremote_v1.2.3-auth\\app-remote-sample\\src\\main\\res\\drawable-xxhdpi\\mediaservice_repeat_off.png"
+    },
+    {
+        "merged": "C:\\Users\\SNIGDHA JAIN\\Desktop\\android-sdk-7.0.0-appremote_v1.2.3-auth\\app-remote-sample\\build\\intermediates\\res\\merged\\javaSample\\debug\\drawable_btn_next.xml.flat",
+        "source": "C:\\Users\\SNIGDHA JAIN\\Desktop\\android-sdk-7.0.0-appremote_v1.2.3-auth\\app-remote-sample\\src\\main\\res\\drawable\\btn_next.xml"
+    },
+    {
+        "merged": "C:\\Users\\SNIGDHA JAIN\\Desktop\\android-sdk-7.0.0-appremote_v1.2.3-auth\\app-remote-sample\\build\\intermediates\\res\\merged\\javaSample\\debug\\color_cat_button_text.xml.flat",
+        "source": "C:\\Users\\SNIGDHA JAIN\\Desktop\\android-sdk-7.0.0-appremote_v1.2.3-auth\\app-remote-sample\\src\\main\\res\\color\\cat_button_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\SNIGDHA JAIN\\Desktop\\android-sdk-7.0.0-appremote_v1.2.3-auth\\app-remote-sample\\build\\intermediates\\res\\merged\\javaSample\\debug\\drawable-xhdpi_ic_spotify_icon_rgb_green.png.flat",
+        "source": "C:\\Users\\SNIGDHA JAIN\\Desktop\\android-sdk-7.0.0-appremote_v1.2.3-auth\\app-remote-sample\\src\\main\\res\\drawable-xhdpi\\ic_spotify_icon_rgb_green.png"
+    },
+    {
+        "merged": "C:\\Users\\SNIGDHA JAIN\\Desktop\\android-sdk-7.0.0-appremote_v1.2.3-auth\\app-remote-sample\\build\\intermediates\\res\\merged\\javaSample\\debug\\drawable-xxhdpi_ic_shuffle.png.flat",
+        "source": "C:\\Users\\SNIGDHA JAIN\\Desktop\\android-sdk-7.0.0-appremote_v1.2.3-auth\\app-remote-sample\\src\\main\\res\\drawable-xxhdpi\\ic_shuffle.png"
+    },
+    {
+        "merged": "C:\\Users\\SNIGDHA JAIN\\Desktop\\android-sdk-7.0.0-appremote_v1.2.3-auth\\app-remote-sample\\build\\intermediates\\res\\merged\\javaSample\\debug\\drawable-xxhdpi_ic_playback_speed_120.png.flat",
+        "source": "C:\\Users\\SNIGDHA JAIN\\Desktop\\android-sdk-7.0.0-appremote_v1.2.3-auth\\app-remote-sample\\src\\main\\res\\drawable-xxhdpi\\ic_playback_speed_120.png"
+    },
+    {
+        "merged": "C:\\Users\\SNIGDHA JAIN\\Desktop\\android-sdk-7.0.0-appremote_v1.2.3-auth\\app-remote-sample\\build\\intermediates\\res\\merged\\javaSample\\debug\\drawable_window_background.xml.flat",
+        "source": "C:\\Users\\SNIGDHA JAIN\\Desktop\\android-sdk-7.0.0-appremote_v1.2.3-auth\\app-remote-sample\\src\\main\\res\\drawable\\window_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\SNIGDHA JAIN\\Desktop\\android-sdk-7.0.0-appremote_v1.2.3-auth\\app-remote-sample\\build\\intermediates\\res\\merged\\javaSample\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\SNIGDHA JAIN\\Desktop\\android-sdk-7.0.0-appremote_v1.2.3-auth\\app-remote-sample\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\SNIGDHA JAIN\\Desktop\\android-sdk-7.0.0-appremote_v1.2.3-auth\\app-remote-sample\\build\\intermediates\\res\\merged\\javaSample\\debug\\drawable-xxhdpi_ic_next.png.flat",
+        "source": "C:\\Users\\SNIGDHA JAIN\\Desktop\\android-sdk-7.0.0-appremote_v1.2.3-auth\\app-remote-sample\\src\\main\\res\\drawable-xxhdpi\\ic_next.png"
+    },
+    {
+        "merged": "C:\\Users\\SNIGDHA JAIN\\Desktop\\android-sdk-7.0.0-appremote_v1.2.3-auth\\app-remote-sample\\build\\intermediates\\res\\merged\\javaSample\\debug\\drawable-xxhdpi_ic_skip_forward_15.png.flat",
+        "source": "C:\\Users\\SNIGDHA JAIN\\Desktop\\android-sdk-7.0.0-appremote_v1.2.3-auth\\app-remote-sample\\src\\main\\res\\drawable-xxhdpi\\ic_skip_forward_15.png"
+    },
+    {
+        "merged": "C:\\Users\\SNIGDHA JAIN\\Desktop\\android-sdk-7.0.0-appremote_v1.2.3-auth\\app-remote-sample\\build\\intermediates\\res\\merged\\javaSample\\debug\\drawable_btn_shuffle.xml.flat",
+        "source": "C:\\Users\\SNIGDHA JAIN\\Desktop\\android-sdk-7.0.0-appremote_v1.2.3-auth\\app-remote-sample\\src\\main\\res\\drawable\\btn_shuffle.xml"
+    },
+    {
+        "merged": "C:\\Users\\SNIGDHA JAIN\\Desktop\\android-sdk-7.0.0-appremote_v1.2.3-auth\\app-remote-sample\\build\\intermediates\\res\\merged\\javaSample\\debug\\drawable-ldpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\SNIGDHA JAIN\\Desktop\\android-sdk-7.0.0-appremote_v1.2.3-auth\\app-remote-sample\\src\\main\\res\\drawable-ldpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\SNIGDHA JAIN\\Desktop\\android-sdk-7.0.0-appremote_v1.2.3-auth\\app-remote-sample\\build\\intermediates\\res\\merged\\javaSample\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\SNIGDHA JAIN\\Desktop\\android-sdk-7.0.0-appremote_v1.2.3-auth\\app-remote-sample\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\SNIGDHA JAIN\\Desktop\\android-sdk-7.0.0-appremote_v1.2.3-auth\\app-remote-sample\\build\\intermediates\\res\\merged\\javaSample\\debug\\drawable_btn_repeat.xml.flat",
+        "source": "C:\\Users\\SNIGDHA JAIN\\Desktop\\android-sdk-7.0.0-appremote_v1.2.3-auth\\app-remote-sample\\src\\main\\res\\drawable\\btn_repeat.xml"
+    },
+    {
+        "merged": "C:\\Users\\SNIGDHA JAIN\\Desktop\\android-sdk-7.0.0-appremote_v1.2.3-auth\\app-remote-sample\\build\\intermediates\\res\\merged\\javaSample\\debug\\drawable-ldpi_ic_spotify_icon_rgb_green.png.flat",
+        "source": "C:\\Users\\SNIGDHA JAIN\\Desktop\\android-sdk-7.0.0-appremote_v1.2.3-auth\\app-remote-sample\\src\\main\\res\\drawable-ldpi\\ic_spotify_icon_rgb_green.png"
+    },
+    {
+        "merged": "C:\\Users\\SNIGDHA JAIN\\Desktop\\android-sdk-7.0.0-appremote_v1.2.3-auth\\app-remote-sample\\build\\intermediates\\res\\merged\\javaSample\\debug\\drawable-xxhdpi_mediaservice_repeat_all.png.flat",
+        "source": "C:\\Users\\SNIGDHA JAIN\\Desktop\\android-sdk-7.0.0-appremote_v1.2.3-auth\\app-remote-sample\\src\\main\\res\\drawable-xxhdpi\\mediaservice_repeat_all.png"
+    },
+    {
+        "merged": "C:\\Users\\SNIGDHA JAIN\\Desktop\\android-sdk-7.0.0-appremote_v1.2.3-auth\\app-remote-sample\\build\\intermediates\\res\\merged\\javaSample\\debug\\drawable-xxhdpi_mediaservice_shuffle.png.flat",
+        "source": "C:\\Users\\SNIGDHA JAIN\\Desktop\\android-sdk-7.0.0-appremote_v1.2.3-auth\\app-remote-sample\\src\\main\\res\\drawable-xxhdpi\\mediaservice_shuffle.png"
+    },
+    {
+        "merged": "C:\\Users\\SNIGDHA JAIN\\Desktop\\android-sdk-7.0.0-appremote_v1.2.3-auth\\app-remote-sample\\build\\intermediates\\res\\merged\\javaSample\\debug\\layout_app_remote_layout.xml.flat",
+        "source": "C:\\Users\\SNIGDHA JAIN\\Desktop\\android-sdk-7.0.0-appremote_v1.2.3-auth\\app-remote-sample\\src\\main\\res\\layout\\app_remote_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\SNIGDHA JAIN\\Desktop\\android-sdk-7.0.0-appremote_v1.2.3-auth\\app-remote-sample\\build\\intermediates\\res\\merged\\javaSample\\debug\\drawable-xxhdpi_ic_playback_speed_200.png.flat",
+        "source": "C:\\Users\\SNIGDHA JAIN\\Desktop\\android-sdk-7.0.0-appremote_v1.2.3-auth\\app-remote-sample\\src\\main\\res\\drawable-xxhdpi\\ic_playback_speed_200.png"
+    },
+    {
+        "merged": "C:\\Users\\SNIGDHA JAIN\\Desktop\\android-sdk-7.0.0-appremote_v1.2.3-auth\\app-remote-sample\\build\\intermediates\\res\\merged\\javaSample\\debug\\drawable-xxhdpi_ic_playback_speed_300.png.flat",
+        "source": "C:\\Users\\SNIGDHA JAIN\\Desktop\\android-sdk-7.0.0-appremote_v1.2.3-auth\\app-remote-sample\\src\\main\\res\\drawable-xxhdpi\\ic_playback_speed_300.png"
+    },
+    {
+        "merged": "C:\\Users\\SNIGDHA JAIN\\Desktop\\android-sdk-7.0.0-appremote_v1.2.3-auth\\app-remote-sample\\build\\intermediates\\res\\merged\\javaSample\\debug\\drawable_btn_play.xml.flat",
+        "source": "C:\\Users\\SNIGDHA JAIN\\Desktop\\android-sdk-7.0.0-appremote_v1.2.3-auth\\app-remote-sample\\src\\main\\res\\drawable\\btn_play.xml"
+    },
+    {
+        "merged": "C:\\Users\\SNIGDHA JAIN\\Desktop\\android-sdk-7.0.0-appremote_v1.2.3-auth\\app-remote-sample\\build\\intermediates\\res\\merged\\javaSample\\debug\\drawable-xxhdpi_ic_playback_speed_100.png.flat",
+        "source": "C:\\Users\\SNIGDHA JAIN\\Desktop\\android-sdk-7.0.0-appremote_v1.2.3-auth\\app-remote-sample\\src\\main\\res\\drawable-xxhdpi\\ic_playback_speed_100.png"
+    },
+    {
+        "merged": "C:\\Users\\SNIGDHA JAIN\\Desktop\\android-sdk-7.0.0-appremote_v1.2.3-auth\\app-remote-sample\\build\\intermediates\\res\\merged\\javaSample\\debug\\drawable-xxhdpi_ic_spotify_icon_rgb_green.png.flat",
+        "source": "C:\\Users\\SNIGDHA JAIN\\Desktop\\android-sdk-7.0.0-appremote_v1.2.3-auth\\app-remote-sample\\src\\main\\res\\drawable-xxhdpi\\ic_spotify_icon_rgb_green.png"
+    },
+    {
+        "merged": "C:\\Users\\SNIGDHA JAIN\\Desktop\\android-sdk-7.0.0-appremote_v1.2.3-auth\\app-remote-sample\\build\\intermediates\\res\\merged\\javaSample\\debug\\drawable-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\SNIGDHA JAIN\\Desktop\\android-sdk-7.0.0-appremote_v1.2.3-auth\\app-remote-sample\\src\\main\\res\\drawable-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\SNIGDHA JAIN\\Desktop\\android-sdk-7.0.0-appremote_v1.2.3-auth\\app-remote-sample\\build\\intermediates\\res\\merged\\javaSample\\debug\\drawable_widget_placeholder.png.flat",
+        "source": "C:\\Users\\SNIGDHA JAIN\\Desktop\\android-sdk-7.0.0-appremote_v1.2.3-auth\\app-remote-sample\\src\\main\\res\\drawable\\widget_placeholder.png"
+    },
+    {
+        "merged": "C:\\Users\\SNIGDHA JAIN\\Desktop\\android-sdk-7.0.0-appremote_v1.2.3-auth\\app-remote-sample\\build\\intermediates\\res\\merged\\javaSample\\debug\\drawable_cat_button_small_state_checked.xml.flat",
+        "source": "C:\\Users\\SNIGDHA JAIN\\Desktop\\android-sdk-7.0.0-appremote_v1.2.3-auth\\app-remote-sample\\src\\main\\res\\drawable\\cat_button_small_state_checked.xml"
+    },
+    {
+        "merged": "C:\\Users\\SNIGDHA JAIN\\Desktop\\android-sdk-7.0.0-appremote_v1.2.3-auth\\app-remote-sample\\build\\intermediates\\res\\merged\\javaSample\\debug\\drawable-xxhdpi_ic_play.png.flat",
+        "source": "C:\\Users\\SNIGDHA JAIN\\Desktop\\android-sdk-7.0.0-appremote_v1.2.3-auth\\app-remote-sample\\src\\main\\res\\drawable-xxhdpi\\ic_play.png"
+    },
+    {
+        "merged": "C:\\Users\\SNIGDHA JAIN\\Desktop\\android-sdk-7.0.0-appremote_v1.2.3-auth\\app-remote-sample\\build\\intermediates\\res\\merged\\javaSample\\debug\\drawable-xxhdpi_ic_pause.png.flat",
+        "source": "C:\\Users\\SNIGDHA JAIN\\Desktop\\android-sdk-7.0.0-appremote_v1.2.3-auth\\app-remote-sample\\src\\main\\res\\drawable-xxhdpi\\ic_pause.png"
+    },
+    {
+        "merged": "C:\\Users\\SNIGDHA JAIN\\Desktop\\android-sdk-7.0.0-appremote_v1.2.3-auth\\app-remote-sample\\build\\intermediates\\res\\merged\\javaSample\\debug\\drawable-xxhdpi_ic_prev.png.flat",
+        "source": "C:\\Users\\SNIGDHA JAIN\\Desktop\\android-sdk-7.0.0-appremote_v1.2.3-auth\\app-remote-sample\\src\\main\\res\\drawable-xxhdpi\\ic_prev.png"
+    },
+    {
+        "merged": "C:\\Users\\SNIGDHA JAIN\\Desktop\\android-sdk-7.0.0-appremote_v1.2.3-auth\\app-remote-sample\\build\\intermediates\\res\\merged\\javaSample\\debug\\drawable-xxhdpi_ic_playback_speed_80.png.flat",
+        "source": "C:\\Users\\SNIGDHA JAIN\\Desktop\\android-sdk-7.0.0-appremote_v1.2.3-auth\\app-remote-sample\\src\\main\\res\\drawable-xxhdpi\\ic_playback_speed_80.png"
+    },
+    {
+        "merged": "C:\\Users\\SNIGDHA JAIN\\Desktop\\android-sdk-7.0.0-appremote_v1.2.3-auth\\app-remote-sample\\build\\intermediates\\res\\merged\\javaSample\\debug\\drawable_btn_prev.xml.flat",
+        "source": "C:\\Users\\SNIGDHA JAIN\\Desktop\\android-sdk-7.0.0-appremote_v1.2.3-auth\\app-remote-sample\\src\\main\\res\\drawable\\btn_prev.xml"
+    },
+    {
+        "merged": "C:\\Users\\SNIGDHA JAIN\\Desktop\\android-sdk-7.0.0-appremote_v1.2.3-auth\\app-remote-sample\\build\\intermediates\\res\\merged\\javaSample\\debug\\drawable-xxhdpi_ic_playback_speed_150.png.flat",
+        "source": "C:\\Users\\SNIGDHA JAIN\\Desktop\\android-sdk-7.0.0-appremote_v1.2.3-auth\\app-remote-sample\\src\\main\\res\\drawable-xxhdpi\\ic_playback_speed_150.png"
+    },
+    {
+        "merged": "C:\\Users\\SNIGDHA JAIN\\Desktop\\android-sdk-7.0.0-appremote_v1.2.3-auth\\app-remote-sample\\build\\intermediates\\res\\merged\\javaSample\\debug\\drawable-xxxhdpi_ic_spotify_icon_rgb_green.png.flat",
+        "source": "C:\\Users\\SNIGDHA JAIN\\Desktop\\android-sdk-7.0.0-appremote_v1.2.3-auth\\app-remote-sample\\src\\main\\res\\drawable-xxxhdpi\\ic_spotify_icon_rgb_green.png"
+    },
+    {
+        "merged": "C:\\Users\\SNIGDHA JAIN\\Desktop\\android-sdk-7.0.0-appremote_v1.2.3-auth\\app-remote-sample\\build\\intermediates\\res\\merged\\javaSample\\debug\\drawable_bg_launcher.xml.flat",
+        "source": "C:\\Users\\SNIGDHA JAIN\\Desktop\\android-sdk-7.0.0-appremote_v1.2.3-auth\\app-remote-sample\\src\\main\\res\\drawable\\bg_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\SNIGDHA JAIN\\Desktop\\android-sdk-7.0.0-appremote_v1.2.3-auth\\app-remote-sample\\build\\intermediates\\res\\merged\\javaSample\\debug\\drawable-hdpi_ic_spotify_icon_rgb_green.png.flat",
+        "source": "C:\\Users\\SNIGDHA JAIN\\Desktop\\android-sdk-7.0.0-appremote_v1.2.3-auth\\app-remote-sample\\src\\main\\res\\drawable-hdpi\\ic_spotify_icon_rgb_green.png"
+    }
+]

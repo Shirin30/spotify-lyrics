@@ -1,0 +1,79 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<!--
+3    Copyright (c) 2015-2018 Spotify AB
+4
+5    Licensed to the Apache Software Foundation (ASF) under one
+6    or more contributor license agreements.  See the NOTICE file
+7    distributed with this work for additional information
+8    regarding copyright ownership.  The ASF licenses this file
+9    to you under the Apache License, Version 2.0 (the
+10    "License"); you may not use this file except in compliance
+11    with the License.  You may obtain a copy of the License at
+12
+13    http://www.apache.org/licenses/LICENSE-2.0
+14
+15    Unless required by applicable law or agreed to in writing,
+16    software distributed under the License is distributed on an
+17    "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+18    KIND, either express or implied.  See the License for the
+19    specific language governing permissions and limitations
+20    under the License.
+21-->
+22<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+23    package="com.spotify.sdk.android.authentication.sample"
+24    android:versionCode="1"
+25    android:versionName="1.1.0" >
+26
+27    <uses-sdk
+28        android:minSdkVersion="21"
+28-->C:\Users\SNIGDHA JAIN\Desktop\android-sdk-7.0.0-appremote_v1.2.3-auth\auth-sample\src\main\AndroidManifest.xml
+29        android:targetSdkVersion="28" />
+29-->C:\Users\SNIGDHA JAIN\Desktop\android-sdk-7.0.0-appremote_v1.2.3-auth\auth-sample\src\main\AndroidManifest.xml
+30
+31    <uses-permission android:name="android.permission.INTERNET" />
+31-->[com.spotify.android:auth:1.2.3] C:\Users\SNIGDHA JAIN\.gradle\caches\transforms-2\files-2.1\66c3feca5b043e06b6ac837f5099fefe\jetified-auth-1.2.3\AndroidManifest.xml:31:5-67
+31-->[com.spotify.android:auth:1.2.3] C:\Users\SNIGDHA JAIN\.gradle\caches\transforms-2\files-2.1\66c3feca5b043e06b6ac837f5099fefe\jetified-auth-1.2.3\AndroidManifest.xml:31:22-64
+32
+33    <application
+33-->C:\Users\SNIGDHA JAIN\Desktop\android-sdk-7.0.0-appremote_v1.2.3-auth\auth-sample\src\main\AndroidManifest.xml:25:5-39:19
+34        android:allowBackup="true"
+34-->C:\Users\SNIGDHA JAIN\Desktop\android-sdk-7.0.0-appremote_v1.2.3-auth\auth-sample\src\main\AndroidManifest.xml:26:9-35
+35        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+35-->[androidx.core:core:1.1.0] C:\Users\SNIGDHA JAIN\.gradle\caches\transforms-2\files-2.1\a9db740b60dc36334c2480530f66f4a2\core-1.1.0\AndroidManifest.xml:24:18-86
+36        android:debuggable="true"
+37        android:icon="@mipmap/ic_launcher"
+37-->C:\Users\SNIGDHA JAIN\Desktop\android-sdk-7.0.0-appremote_v1.2.3-auth\auth-sample\src\main\AndroidManifest.xml:27:9-43
+38        android:label="@string/app_name"
+38-->C:\Users\SNIGDHA JAIN\Desktop\android-sdk-7.0.0-appremote_v1.2.3-auth\auth-sample\src\main\AndroidManifest.xml:28:9-41
+39        android:supportsRtl="true"
+39-->C:\Users\SNIGDHA JAIN\Desktop\android-sdk-7.0.0-appremote_v1.2.3-auth\auth-sample\src\main\AndroidManifest.xml:29:9-35
+40        android:testOnly="true"
+41        android:theme="@style/AppTheme" >
+41-->C:\Users\SNIGDHA JAIN\Desktop\android-sdk-7.0.0-appremote_v1.2.3-auth\auth-sample\src\main\AndroidManifest.xml:30:9-40
+42        <activity
+42-->C:\Users\SNIGDHA JAIN\Desktop\android-sdk-7.0.0-appremote_v1.2.3-auth\auth-sample\src\main\AndroidManifest.xml:31:9-38:20
+43            android:name="com.spotify.sdk.android.authentication.sample.MainActivity"
+43-->C:\Users\SNIGDHA JAIN\Desktop\android-sdk-7.0.0-appremote_v1.2.3-auth\auth-sample\src\main\AndroidManifest.xml:32:13-41
+44            android:configChanges="keyboardHidden|keyboard|orientation|screenSize" >
+44-->C:\Users\SNIGDHA JAIN\Desktop\android-sdk-7.0.0-appremote_v1.2.3-auth\auth-sample\src\main\AndroidManifest.xml:33:13-83
+45            <intent-filter>
+45-->C:\Users\SNIGDHA JAIN\Desktop\android-sdk-7.0.0-appremote_v1.2.3-auth\auth-sample\src\main\AndroidManifest.xml:34:13-37:29
+46                <action android:name="android.intent.action.MAIN" />
+46-->C:\Users\SNIGDHA JAIN\Desktop\android-sdk-7.0.0-appremote_v1.2.3-auth\auth-sample\src\main\AndroidManifest.xml:35:17-68
+46-->C:\Users\SNIGDHA JAIN\Desktop\android-sdk-7.0.0-appremote_v1.2.3-auth\auth-sample\src\main\AndroidManifest.xml:35:25-66
+47
+48                <category android:name="android.intent.category.LAUNCHER" />
+48-->C:\Users\SNIGDHA JAIN\Desktop\android-sdk-7.0.0-appremote_v1.2.3-auth\auth-sample\src\main\AndroidManifest.xml:36:17-76
+48-->C:\Users\SNIGDHA JAIN\Desktop\android-sdk-7.0.0-appremote_v1.2.3-auth\auth-sample\src\main\AndroidManifest.xml:36:27-74
+49            </intent-filter>
+50        </activity>
+51        <activity
+51-->[com.spotify.android:auth:1.2.3] C:\Users\SNIGDHA JAIN\.gradle\caches\transforms-2\files-2.1\66c3feca5b043e06b6ac837f5099fefe\jetified-auth-1.2.3\AndroidManifest.xml:34:9-37:20
+52            android:name="com.spotify.sdk.android.auth.LoginActivity"
+52-->[com.spotify.android:auth:1.2.3] C:\Users\SNIGDHA JAIN\.gradle\caches\transforms-2\files-2.1\66c3feca5b043e06b6ac837f5099fefe\jetified-auth-1.2.3\AndroidManifest.xml:35:13-70
+53            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
+53-->[com.spotify.android:auth:1.2.3] C:\Users\SNIGDHA JAIN\.gradle\caches\transforms-2\files-2.1\66c3feca5b043e06b6ac837f5099fefe\jetified-auth-1.2.3\AndroidManifest.xml:36:13-72
+54        </activity>
+55    </application>
+56
+57</manifest>

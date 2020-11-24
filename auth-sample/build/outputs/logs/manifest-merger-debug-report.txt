@@ -1,0 +1,187 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\SNIGDHA JAIN\Desktop\android-sdk-7.0.0-appremote_v1.2.3-auth\auth-sample\src\main\AndroidManifest.xml:22:1-41:12
+INJECTED from C:\Users\SNIGDHA JAIN\Desktop\android-sdk-7.0.0-appremote_v1.2.3-auth\auth-sample\src\main\AndroidManifest.xml:22:1-41:12
+INJECTED from C:\Users\SNIGDHA JAIN\Desktop\android-sdk-7.0.0-appremote_v1.2.3-auth\auth-sample\src\main\AndroidManifest.xml:22:1-41:12
+INJECTED from C:\Users\SNIGDHA JAIN\Desktop\android-sdk-7.0.0-appremote_v1.2.3-auth\auth-sample\src\main\AndroidManifest.xml:22:1-41:12
+MERGED from [com.spotify.android:auth:1.2.3] C:\Users\SNIGDHA JAIN\.gradle\caches\transforms-2\files-2.1\66c3feca5b043e06b6ac837f5099fefe\jetified-auth-1.2.3\AndroidManifest.xml:22:1-40:12
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\SNIGDHA JAIN\.gradle\caches\transforms-2\files-2.1\f5addc8d093f7cc9e4fbc96ec61655f2\material-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\SNIGDHA JAIN\.gradle\caches\transforms-2\files-2.1\93840a8f6b4f4181ca265d19d77c8676\appcompat-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\SNIGDHA JAIN\.gradle\caches\transforms-2\files-2.1\9abd466bc3b4d2d7c50cec71a7daa5b5\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\SNIGDHA JAIN\.gradle\caches\transforms-2\files-2.1\36875c97a893f0f0ba7f9c1ccdd3d4e8\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\SNIGDHA JAIN\.gradle\caches\transforms-2\files-2.1\0d63d4465ef6533cb2df8d3fc674827b\recyclerview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\SNIGDHA JAIN\.gradle\caches\transforms-2\files-2.1\19fd3e4880bda40b9bbcd26954759156\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\SNIGDHA JAIN\.gradle\caches\transforms-2\files-2.1\7cd6b148d7cbfc3b77f9bac6b8a304e5\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\SNIGDHA JAIN\.gradle\caches\transforms-2\files-2.1\c0fb588e26f94ed524375e6300e3614c\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\SNIGDHA JAIN\.gradle\caches\transforms-2\files-2.1\4cb855c5c825b954dde5f747af128beb\transition-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\SNIGDHA JAIN\.gradle\caches\transforms-2\files-2.1\4988fc6585d4b29fbfb44493550565ab\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\SNIGDHA JAIN\.gradle\caches\transforms-2\files-2.1\f070ab0a5e062126f221e63f6feab274\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\SNIGDHA JAIN\.gradle\caches\transforms-2\files-2.1\033483d947f44806ec66ac33c4b2c453\jetified-activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\SNIGDHA JAIN\.gradle\caches\transforms-2\files-2.1\4a5c5302a8f634bb1595cdb7988862b2\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\SNIGDHA JAIN\.gradle\caches\transforms-2\files-2.1\290feacae200bc8ebe74956c074485f7\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\SNIGDHA JAIN\.gradle\caches\transforms-2\files-2.1\641c2e1eb5eac273d69c8c50b9d7119c\coordinatorlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\SNIGDHA JAIN\.gradle\caches\transforms-2\files-2.1\87cf35a1777817b96c0e81c1196a98e8\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\SNIGDHA JAIN\.gradle\caches\transforms-2\files-2.1\b52d0e8e68a55eba991c5a37ef2006a7\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\SNIGDHA JAIN\.gradle\caches\transforms-2\files-2.1\e7253924dc1d884596b494edd6b4f99f\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\SNIGDHA JAIN\.gradle\caches\transforms-2\files-2.1\811ff10708ecff630ec4382f1d114b69\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] C:\Users\SNIGDHA JAIN\.gradle\caches\transforms-2\files-2.1\a9db740b60dc36334c2480530f66f4a2\core-1.1.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\SNIGDHA JAIN\.gradle\caches\transforms-2\files-2.1\d39f7c1ad7ab33348f39bf633ac32fc0\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\SNIGDHA JAIN\.gradle\caches\transforms-2\files-2.1\ff80439d7d3c0c55065ee7c04155b2c7\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\SNIGDHA JAIN\.gradle\caches\transforms-2\files-2.1\8b6405c4260b9ecc1338ac599bbb868a\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\SNIGDHA JAIN\.gradle\caches\transforms-2\files-2.1\e4212250300bb78fce225c6d1bd73bab\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\SNIGDHA JAIN\.gradle\caches\transforms-2\files-2.1\2c6fe969761697791a976a51291c6f0a\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\SNIGDHA JAIN\.gradle\caches\transforms-2\files-2.1\1492b3867d1757647fdfda44f7fbd635\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\SNIGDHA JAIN\.gradle\caches\transforms-2\files-2.1\8e8b88d6c3c90c6314cbcc03db6810c3\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\SNIGDHA JAIN\.gradle\caches\transforms-2\files-2.1\9cafaf0f01a2d1d3819ec043ae52d13e\lifecycle-runtime-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\SNIGDHA JAIN\.gradle\caches\transforms-2\files-2.1\7a86fdade11adf46da95ac20824aa177\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\SNIGDHA JAIN\.gradle\caches\transforms-2\files-2.1\8155565769c5577eb4f3cde3eeb624b2\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\SNIGDHA JAIN\.gradle\caches\transforms-2\files-2.1\dc51e79a9401877aafdd149a32e79ca1\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\SNIGDHA JAIN\.gradle\caches\transforms-2\files-2.1\4f73d249e44afd6352f42e030f958677\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\SNIGDHA JAIN\.gradle\caches\transforms-2\files-2.1\d622c01eec29f8f4ad5c4746b67dc9e2\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\SNIGDHA JAIN\Desktop\android-sdk-7.0.0-appremote_v1.2.3-auth\auth-sample\src\main\AndroidManifest.xml:22:1-41:12
+INJECTED from C:\Users\SNIGDHA JAIN\Desktop\android-sdk-7.0.0-appremote_v1.2.3-auth\auth-sample\src\main\AndroidManifest.xml:22:1-41:12
+INJECTED from C:\Users\SNIGDHA JAIN\Desktop\android-sdk-7.0.0-appremote_v1.2.3-auth\auth-sample\src\main\AndroidManifest.xml:22:1-41:12
+	package
+		ADDED from C:\Users\SNIGDHA JAIN\Desktop\android-sdk-7.0.0-appremote_v1.2.3-auth\auth-sample\src\main\AndroidManifest.xml:22:11-66
+		INJECTED from C:\Users\SNIGDHA JAIN\Desktop\android-sdk-7.0.0-appremote_v1.2.3-auth\auth-sample\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\SNIGDHA JAIN\Desktop\android-sdk-7.0.0-appremote_v1.2.3-auth\auth-sample\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\SNIGDHA JAIN\Desktop\android-sdk-7.0.0-appremote_v1.2.3-auth\auth-sample\src\main\AndroidManifest.xml
+		ADDED from C:\Users\SNIGDHA JAIN\Desktop\android-sdk-7.0.0-appremote_v1.2.3-auth\auth-sample\src\main\AndroidManifest.xml:22:1-41:12
+		INJECTED from C:\Users\SNIGDHA JAIN\Desktop\android-sdk-7.0.0-appremote_v1.2.3-auth\auth-sample\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\SNIGDHA JAIN\Desktop\android-sdk-7.0.0-appremote_v1.2.3-auth\auth-sample\src\main\AndroidManifest.xml
+		ADDED from C:\Users\SNIGDHA JAIN\Desktop\android-sdk-7.0.0-appremote_v1.2.3-auth\auth-sample\src\main\AndroidManifest.xml:22:1-41:12
+		INJECTED from C:\Users\SNIGDHA JAIN\Desktop\android-sdk-7.0.0-appremote_v1.2.3-auth\auth-sample\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\SNIGDHA JAIN\Desktop\android-sdk-7.0.0-appremote_v1.2.3-auth\auth-sample\src\main\AndroidManifest.xml:23:11-69
+application
+ADDED from C:\Users\SNIGDHA JAIN\Desktop\android-sdk-7.0.0-appremote_v1.2.3-auth\auth-sample\src\main\AndroidManifest.xml:25:5-39:19
+MERGED from [com.spotify.android:auth:1.2.3] C:\Users\SNIGDHA JAIN\.gradle\caches\transforms-2\files-2.1\66c3feca5b043e06b6ac837f5099fefe\jetified-auth-1.2.3\AndroidManifest.xml:33:5-38:19
+MERGED from [com.spotify.android:auth:1.2.3] C:\Users\SNIGDHA JAIN\.gradle\caches\transforms-2\files-2.1\66c3feca5b043e06b6ac837f5099fefe\jetified-auth-1.2.3\AndroidManifest.xml:33:5-38:19
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\SNIGDHA JAIN\.gradle\caches\transforms-2\files-2.1\f5addc8d093f7cc9e4fbc96ec61655f2\material-1.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\SNIGDHA JAIN\.gradle\caches\transforms-2\files-2.1\f5addc8d093f7cc9e4fbc96ec61655f2\material-1.0.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.core:core:1.1.0] C:\Users\SNIGDHA JAIN\.gradle\caches\transforms-2\files-2.1\a9db740b60dc36334c2480530f66f4a2\core-1.1.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] C:\Users\SNIGDHA JAIN\.gradle\caches\transforms-2\files-2.1\a9db740b60dc36334c2480530f66f4a2\core-1.1.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\SNIGDHA JAIN\.gradle\caches\transforms-2\files-2.1\8b6405c4260b9ecc1338ac599bbb868a\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\SNIGDHA JAIN\.gradle\caches\transforms-2\files-2.1\8b6405c4260b9ecc1338ac599bbb868a\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] C:\Users\SNIGDHA JAIN\.gradle\caches\transforms-2\files-2.1\a9db740b60dc36334c2480530f66f4a2\core-1.1.0\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\Users\SNIGDHA JAIN\Desktop\android-sdk-7.0.0-appremote_v1.2.3-auth\auth-sample\src\main\AndroidManifest.xml:29:9-35
+	android:label
+		ADDED from C:\Users\SNIGDHA JAIN\Desktop\android-sdk-7.0.0-appremote_v1.2.3-auth\auth-sample\src\main\AndroidManifest.xml:28:9-41
+	android:icon
+		ADDED from C:\Users\SNIGDHA JAIN\Desktop\android-sdk-7.0.0-appremote_v1.2.3-auth\auth-sample\src\main\AndroidManifest.xml:27:9-43
+	android:allowBackup
+		ADDED from C:\Users\SNIGDHA JAIN\Desktop\android-sdk-7.0.0-appremote_v1.2.3-auth\auth-sample\src\main\AndroidManifest.xml:26:9-35
+	android:theme
+		ADDED from C:\Users\SNIGDHA JAIN\Desktop\android-sdk-7.0.0-appremote_v1.2.3-auth\auth-sample\src\main\AndroidManifest.xml:30:9-40
+activity#com.spotify.sdk.android.authentication.sample.MainActivity
+ADDED from C:\Users\SNIGDHA JAIN\Desktop\android-sdk-7.0.0-appremote_v1.2.3-auth\auth-sample\src\main\AndroidManifest.xml:31:9-38:20
+	android:configChanges
+		ADDED from C:\Users\SNIGDHA JAIN\Desktop\android-sdk-7.0.0-appremote_v1.2.3-auth\auth-sample\src\main\AndroidManifest.xml:33:13-83
+	android:name
+		ADDED from C:\Users\SNIGDHA JAIN\Desktop\android-sdk-7.0.0-appremote_v1.2.3-auth\auth-sample\src\main\AndroidManifest.xml:32:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\SNIGDHA JAIN\Desktop\android-sdk-7.0.0-appremote_v1.2.3-auth\auth-sample\src\main\AndroidManifest.xml:34:13-37:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\SNIGDHA JAIN\Desktop\android-sdk-7.0.0-appremote_v1.2.3-auth\auth-sample\src\main\AndroidManifest.xml:35:17-68
+	android:name
+		ADDED from C:\Users\SNIGDHA JAIN\Desktop\android-sdk-7.0.0-appremote_v1.2.3-auth\auth-sample\src\main\AndroidManifest.xml:35:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\SNIGDHA JAIN\Desktop\android-sdk-7.0.0-appremote_v1.2.3-auth\auth-sample\src\main\AndroidManifest.xml:36:17-76
+	android:name
+		ADDED from C:\Users\SNIGDHA JAIN\Desktop\android-sdk-7.0.0-appremote_v1.2.3-auth\auth-sample\src\main\AndroidManifest.xml:36:27-74
+uses-sdk
+INJECTED from C:\Users\SNIGDHA JAIN\Desktop\android-sdk-7.0.0-appremote_v1.2.3-auth\auth-sample\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\SNIGDHA JAIN\Desktop\android-sdk-7.0.0-appremote_v1.2.3-auth\auth-sample\src\main\AndroidManifest.xml
+INJECTED from C:\Users\SNIGDHA JAIN\Desktop\android-sdk-7.0.0-appremote_v1.2.3-auth\auth-sample\src\main\AndroidManifest.xml
+MERGED from [com.spotify.android:auth:1.2.3] C:\Users\SNIGDHA JAIN\.gradle\caches\transforms-2\files-2.1\66c3feca5b043e06b6ac837f5099fefe\jetified-auth-1.2.3\AndroidManifest.xml:27:5-29:41
+MERGED from [com.spotify.android:auth:1.2.3] C:\Users\SNIGDHA JAIN\.gradle\caches\transforms-2\files-2.1\66c3feca5b043e06b6ac837f5099fefe\jetified-auth-1.2.3\AndroidManifest.xml:27:5-29:41
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\SNIGDHA JAIN\.gradle\caches\transforms-2\files-2.1\f5addc8d093f7cc9e4fbc96ec61655f2\material-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\SNIGDHA JAIN\.gradle\caches\transforms-2\files-2.1\f5addc8d093f7cc9e4fbc96ec61655f2\material-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\SNIGDHA JAIN\.gradle\caches\transforms-2\files-2.1\93840a8f6b4f4181ca265d19d77c8676\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\SNIGDHA JAIN\.gradle\caches\transforms-2\files-2.1\93840a8f6b4f4181ca265d19d77c8676\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\SNIGDHA JAIN\.gradle\caches\transforms-2\files-2.1\9abd466bc3b4d2d7c50cec71a7daa5b5\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\SNIGDHA JAIN\.gradle\caches\transforms-2\files-2.1\9abd466bc3b4d2d7c50cec71a7daa5b5\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\SNIGDHA JAIN\.gradle\caches\transforms-2\files-2.1\36875c97a893f0f0ba7f9c1ccdd3d4e8\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\SNIGDHA JAIN\.gradle\caches\transforms-2\files-2.1\36875c97a893f0f0ba7f9c1ccdd3d4e8\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\SNIGDHA JAIN\.gradle\caches\transforms-2\files-2.1\0d63d4465ef6533cb2df8d3fc674827b\recyclerview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\SNIGDHA JAIN\.gradle\caches\transforms-2\files-2.1\0d63d4465ef6533cb2df8d3fc674827b\recyclerview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\SNIGDHA JAIN\.gradle\caches\transforms-2\files-2.1\19fd3e4880bda40b9bbcd26954759156\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\SNIGDHA JAIN\.gradle\caches\transforms-2\files-2.1\19fd3e4880bda40b9bbcd26954759156\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\SNIGDHA JAIN\.gradle\caches\transforms-2\files-2.1\7cd6b148d7cbfc3b77f9bac6b8a304e5\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\SNIGDHA JAIN\.gradle\caches\transforms-2\files-2.1\7cd6b148d7cbfc3b77f9bac6b8a304e5\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\SNIGDHA JAIN\.gradle\caches\transforms-2\files-2.1\c0fb588e26f94ed524375e6300e3614c\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\SNIGDHA JAIN\.gradle\caches\transforms-2\files-2.1\c0fb588e26f94ed524375e6300e3614c\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\SNIGDHA JAIN\.gradle\caches\transforms-2\files-2.1\4cb855c5c825b954dde5f747af128beb\transition-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\SNIGDHA JAIN\.gradle\caches\transforms-2\files-2.1\4cb855c5c825b954dde5f747af128beb\transition-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\SNIGDHA JAIN\.gradle\caches\transforms-2\files-2.1\4988fc6585d4b29fbfb44493550565ab\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\SNIGDHA JAIN\.gradle\caches\transforms-2\files-2.1\4988fc6585d4b29fbfb44493550565ab\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\SNIGDHA JAIN\.gradle\caches\transforms-2\files-2.1\f070ab0a5e062126f221e63f6feab274\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\SNIGDHA JAIN\.gradle\caches\transforms-2\files-2.1\f070ab0a5e062126f221e63f6feab274\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\SNIGDHA JAIN\.gradle\caches\transforms-2\files-2.1\033483d947f44806ec66ac33c4b2c453\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\SNIGDHA JAIN\.gradle\caches\transforms-2\files-2.1\033483d947f44806ec66ac33c4b2c453\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\SNIGDHA JAIN\.gradle\caches\transforms-2\files-2.1\4a5c5302a8f634bb1595cdb7988862b2\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\SNIGDHA JAIN\.gradle\caches\transforms-2\files-2.1\4a5c5302a8f634bb1595cdb7988862b2\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\SNIGDHA JAIN\.gradle\caches\transforms-2\files-2.1\290feacae200bc8ebe74956c074485f7\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\SNIGDHA JAIN\.gradle\caches\transforms-2\files-2.1\290feacae200bc8ebe74956c074485f7\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\SNIGDHA JAIN\.gradle\caches\transforms-2\files-2.1\641c2e1eb5eac273d69c8c50b9d7119c\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\SNIGDHA JAIN\.gradle\caches\transforms-2\files-2.1\641c2e1eb5eac273d69c8c50b9d7119c\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\SNIGDHA JAIN\.gradle\caches\transforms-2\files-2.1\87cf35a1777817b96c0e81c1196a98e8\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\SNIGDHA JAIN\.gradle\caches\transforms-2\files-2.1\87cf35a1777817b96c0e81c1196a98e8\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\SNIGDHA JAIN\.gradle\caches\transforms-2\files-2.1\b52d0e8e68a55eba991c5a37ef2006a7\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\SNIGDHA JAIN\.gradle\caches\transforms-2\files-2.1\b52d0e8e68a55eba991c5a37ef2006a7\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\SNIGDHA JAIN\.gradle\caches\transforms-2\files-2.1\e7253924dc1d884596b494edd6b4f99f\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\SNIGDHA JAIN\.gradle\caches\transforms-2\files-2.1\e7253924dc1d884596b494edd6b4f99f\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\SNIGDHA JAIN\.gradle\caches\transforms-2\files-2.1\811ff10708ecff630ec4382f1d114b69\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\SNIGDHA JAIN\.gradle\caches\transforms-2\files-2.1\811ff10708ecff630ec4382f1d114b69\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] C:\Users\SNIGDHA JAIN\.gradle\caches\transforms-2\files-2.1\a9db740b60dc36334c2480530f66f4a2\core-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] C:\Users\SNIGDHA JAIN\.gradle\caches\transforms-2\files-2.1\a9db740b60dc36334c2480530f66f4a2\core-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\SNIGDHA JAIN\.gradle\caches\transforms-2\files-2.1\d39f7c1ad7ab33348f39bf633ac32fc0\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\SNIGDHA JAIN\.gradle\caches\transforms-2\files-2.1\d39f7c1ad7ab33348f39bf633ac32fc0\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\SNIGDHA JAIN\.gradle\caches\transforms-2\files-2.1\ff80439d7d3c0c55065ee7c04155b2c7\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\SNIGDHA JAIN\.gradle\caches\transforms-2\files-2.1\ff80439d7d3c0c55065ee7c04155b2c7\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\SNIGDHA JAIN\.gradle\caches\transforms-2\files-2.1\8b6405c4260b9ecc1338ac599bbb868a\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\SNIGDHA JAIN\.gradle\caches\transforms-2\files-2.1\8b6405c4260b9ecc1338ac599bbb868a\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\SNIGDHA JAIN\.gradle\caches\transforms-2\files-2.1\e4212250300bb78fce225c6d1bd73bab\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\SNIGDHA JAIN\.gradle\caches\transforms-2\files-2.1\e4212250300bb78fce225c6d1bd73bab\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\SNIGDHA JAIN\.gradle\caches\transforms-2\files-2.1\2c6fe969761697791a976a51291c6f0a\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\SNIGDHA JAIN\.gradle\caches\transforms-2\files-2.1\2c6fe969761697791a976a51291c6f0a\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\SNIGDHA JAIN\.gradle\caches\transforms-2\files-2.1\1492b3867d1757647fdfda44f7fbd635\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\SNIGDHA JAIN\.gradle\caches\transforms-2\files-2.1\1492b3867d1757647fdfda44f7fbd635\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\SNIGDHA JAIN\.gradle\caches\transforms-2\files-2.1\8e8b88d6c3c90c6314cbcc03db6810c3\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\SNIGDHA JAIN\.gradle\caches\transforms-2\files-2.1\8e8b88d6c3c90c6314cbcc03db6810c3\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\SNIGDHA JAIN\.gradle\caches\transforms-2\files-2.1\9cafaf0f01a2d1d3819ec043ae52d13e\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\SNIGDHA JAIN\.gradle\caches\transforms-2\files-2.1\9cafaf0f01a2d1d3819ec043ae52d13e\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\SNIGDHA JAIN\.gradle\caches\transforms-2\files-2.1\7a86fdade11adf46da95ac20824aa177\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\SNIGDHA JAIN\.gradle\caches\transforms-2\files-2.1\7a86fdade11adf46da95ac20824aa177\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\SNIGDHA JAIN\.gradle\caches\transforms-2\files-2.1\8155565769c5577eb4f3cde3eeb624b2\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\SNIGDHA JAIN\.gradle\caches\transforms-2\files-2.1\8155565769c5577eb4f3cde3eeb624b2\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\SNIGDHA JAIN\.gradle\caches\transforms-2\files-2.1\dc51e79a9401877aafdd149a32e79ca1\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\SNIGDHA JAIN\.gradle\caches\transforms-2\files-2.1\dc51e79a9401877aafdd149a32e79ca1\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\SNIGDHA JAIN\.gradle\caches\transforms-2\files-2.1\4f73d249e44afd6352f42e030f958677\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\SNIGDHA JAIN\.gradle\caches\transforms-2\files-2.1\4f73d249e44afd6352f42e030f958677\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\SNIGDHA JAIN\.gradle\caches\transforms-2\files-2.1\d622c01eec29f8f4ad5c4746b67dc9e2\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\SNIGDHA JAIN\.gradle\caches\transforms-2\files-2.1\d622c01eec29f8f4ad5c4746b67dc9e2\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\SNIGDHA JAIN\Desktop\android-sdk-7.0.0-appremote_v1.2.3-auth\auth-sample\src\main\AndroidManifest.xml
+INJECTED from C:\Users\SNIGDHA JAIN\Desktop\android-sdk-7.0.0-appremote_v1.2.3-auth\auth-sample\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\SNIGDHA JAIN\Desktop\android-sdk-7.0.0-appremote_v1.2.3-auth\auth-sample\src\main\AndroidManifest.xml
+		ADDED from C:\Users\SNIGDHA JAIN\Desktop\android-sdk-7.0.0-appremote_v1.2.3-auth\auth-sample\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\SNIGDHA JAIN\Desktop\android-sdk-7.0.0-appremote_v1.2.3-auth\auth-sample\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\SNIGDHA JAIN\Desktop\android-sdk-7.0.0-appremote_v1.2.3-auth\auth-sample\src\main\AndroidManifest.xml
+		ADDED from C:\Users\SNIGDHA JAIN\Desktop\android-sdk-7.0.0-appremote_v1.2.3-auth\auth-sample\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\SNIGDHA JAIN\Desktop\android-sdk-7.0.0-appremote_v1.2.3-auth\auth-sample\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from [com.spotify.android:auth:1.2.3] C:\Users\SNIGDHA JAIN\.gradle\caches\transforms-2\files-2.1\66c3feca5b043e06b6ac837f5099fefe\jetified-auth-1.2.3\AndroidManifest.xml:31:5-67
+	android:name
+		ADDED from [com.spotify.android:auth:1.2.3] C:\Users\SNIGDHA JAIN\.gradle\caches\transforms-2\files-2.1\66c3feca5b043e06b6ac837f5099fefe\jetified-auth-1.2.3\AndroidManifest.xml:31:22-64
+activity#com.spotify.sdk.android.auth.LoginActivity
+ADDED from [com.spotify.android:auth:1.2.3] C:\Users\SNIGDHA JAIN\.gradle\caches\transforms-2\files-2.1\66c3feca5b043e06b6ac837f5099fefe\jetified-auth-1.2.3\AndroidManifest.xml:34:9-37:20
+	android:theme
+		ADDED from [com.spotify.android:auth:1.2.3] C:\Users\SNIGDHA JAIN\.gradle\caches\transforms-2\files-2.1\66c3feca5b043e06b6ac837f5099fefe\jetified-auth-1.2.3\AndroidManifest.xml:36:13-72
+	android:name
+		ADDED from [com.spotify.android:auth:1.2.3] C:\Users\SNIGDHA JAIN\.gradle\caches\transforms-2\files-2.1\66c3feca5b043e06b6ac837f5099fefe\jetified-auth-1.2.3\AndroidManifest.xml:35:13-70
